@@ -16,4 +16,7 @@
 ![](http://suprit-images.oss-cn-beijing.aliyuncs.com/2021-09-21-033842.png)
 
 ## 其他
-关于408的本人详细介绍参见[这篇知乎回答](https://www.zhihu.com/question/436728345/answer/1650316702)
+关于408的本人详细介绍参见这篇知乎回答：
+
+如何评价 2021 年考研 408 难度？ - Suprit的回答 - 知乎
+https://www.zhihu.com/question/436728345/answer/1650316702
