@@ -1,5 +1,20 @@
 # 408思维导图
-关于计算机考研统考408的最强思维导图
+关于计算机考研统考408的最强思维导图资料整理
+自然语言处理（NLP）语义分析--文本分类、情感分析、意图识别
+
+## 文件链接
+1. 数据结构
+链接: https://pan.baidu.com/s/1b6inywh1uRyDKvRybfokRw 提取码: 0w7k 
+--来自百度网盘超级会员v1的分享
+2. 计算机组成原理
+链接: https://pan.baidu.com/s/1z5vuJMBK-seDsZ8n3dkEkA 提取码: 5tml 
+--来自百度网盘超级会员v1的分享
+3. 计算机网络
+链接: https://pan.baidu.com/s/13CSEp3jm9kgU16bem58pzw 提取码: utrv 
+--来自百度网盘超级会员v1的分享
+4. 操作系统
+链接: https://pan.baidu.com/s/1g2L8QlhaT7aXD20vnJjGfw 提取码: k83g 
+--来自百度网盘超级会员v1的分享
 
 ## 关于导图
 这个导图是本人自己手把手做的，整整一年，包含所有的知识点，习题，甚至知识之间的体系、关联都清清楚楚。如图：
